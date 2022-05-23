@@ -1,18 +1,22 @@
 # Episode 2 Show Notes
 
-# **Opening the Terminal**
+
+
+
+
+## Opening the Terminal
 
 If you are on a Mac, you can find the terminal in the Applications/Utilities folder:
 
-![terminal-app.png](Ep02-ShowNotes_figures/terminal-app.png)
+<img src="Ep02-ShowNotes_figures/terminal-app.png"  width=800>
 
 
 
 On a Mac, our favorite shortcut to open the Terminal.app is to press Command+Space and type terminal into the Spotlight search:
 
-![spotlight.png](Ep02-ShowNotes_figures/spotlight.png)
+<img src="Ep02-ShowNotes_figures/spotlight.png"  width=800>
 
-# **Terminal Commands**
+## Terminal Commands
 
 Here is a summary of the terminal commands we covered in this episode:
 
@@ -26,7 +30,9 @@ Here is a summary of the terminal commands we covered in this episode:
 - `rm main.py`: removes (deletes) the file `main.py`
 - `rm -r SomeDirectory`: removes a folder called `SomeDirectory`
 
-# **Links**
+
+
+## Links
 
 - iTerm2: [https://iterm2.com](https://iterm2.com/)
 - Wiliam's open source work: [https://github.com/williamFalcon](https://github.com/williamFalcon)
