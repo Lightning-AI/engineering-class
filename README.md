@@ -11,6 +11,7 @@ This repository contains extra materials and show notes for the [Lightning Bits:
 
 
 - [ep01-nbs-vs-projects/project](ep01-nbs-vs-projects/project): Layout of an example project
+- [A glimpse of Sebastian's typical workflows using both notebooks and Python projects/packages](https://github.com/rasbt/machine-learning-notes/tree/main/templates/pl_classifier)
 - [Show notes](ep01-nbs-vs-projects/Ep01-ShowNotes.md)
 
 
