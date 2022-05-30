@@ -115,3 +115,25 @@ conda install pytorch-lightning -c conda-forge
 
    
 
+## Bonus: exporting an environment using conda
+
+
+
+Instead of using `pip freeze`, you can also use `conda` to snapshot your environment. For instance, you can run the following command to create a environment.yml YAML file:
+
+```bash
+conda env export > environment. yml
+```
+
+Then, you can share the `environment. yml`, and someone with the file can recreate the environment using the following command:
+
+```bash
+conda env create --file environment.yml 
+```
+
+Alternatively, you want to install the packages from `environment.yml` into an existing environment, you can use the `update` command as follows:
+
+```bash
+conda env update --file environment.yml 
+```
+
