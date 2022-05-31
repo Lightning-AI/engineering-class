@@ -137,3 +137,25 @@ Alternatively, you want to install the packages from `environment.yml` into an e
 conda env update --file environment.yml 
 ```
 
+
+
+## Bonus: Checking your current environment in Jupyter notebooks
+
+
+
+When you create a new environment, it is a good idea to install Jupyter Notebook/Lab into that environment as well -- this ensures that you don't accidentally launch a Jupyter Notebook/Lab instance attached to a different environment. 
+
+To conveniently check your current computer specs, conda environment, and the installed packages, Sebastian developed the handy [watermark](https://github.com/rasbt/watermark) extension.
+
+After installing watermark as follows
+
+```bash
+pip install watermark
+```
+
+you can get various information about your computer and environment as shown in the screenshots below:
+
+
+<img src="Ep03-ShowNotes_figures/watermark.png" width=700>
+
+
