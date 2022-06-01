@@ -1,3 +1,11 @@
+# Episode 3 Show Notes -- Environments
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WHWsABk4Ejk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 There are many ways we can set up a virtual environment: Virtualenv, Anaconda, miniconda, Mini-forge, and several others. 
 
 Here, we are going to focus on miniconda and conda-forge.
@@ -157,5 +165,4 @@ you can get various information about your computer and environment as shown in 
 
 
 <img src="Ep03-ShowNotes_figures/watermark.png" width=700>
-
 
