@@ -6,10 +6,6 @@ This repository contains extra materials and show notes for the [Lightning Bits:
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-c55LCTdD90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 ## Ep 01: Notebooks vs Python Projects
 
 - [ep01-nbs-vs-projects/project](ep01-nbs-vs-projects/project): Layout of an example project

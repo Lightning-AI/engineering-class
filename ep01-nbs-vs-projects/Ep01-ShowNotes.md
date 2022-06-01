@@ -2,7 +2,9 @@
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JGnoTN1OnWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/JGnoTN1OnWY"><img src="Ep01-ShowNotes_figures/ep1.png" width=300></a>
+
+
 
 
 

@@ -1,8 +1,7 @@
 # Episode 2 Show Notes -- The Terminal
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KhQKqaxU7BQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=KhQKqaxU7BQ&list=PLaMu-SDt_RB51u2kyttt3tDvXCp-KMw4A&index=4&t=5s"><img src="Ep02-ShowNotes_figures/ep2.png" width=300></a>
 
 
 
