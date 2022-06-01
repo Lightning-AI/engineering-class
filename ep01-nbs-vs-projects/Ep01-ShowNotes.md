@@ -1,4 +1,12 @@
-# Episode 1 Show Notes
+# Episode 1 Show Notes -- Notebooks vs Python Projects
+
+
+
+<a href="https://www.youtube.com/embed/JGnoTN1OnWY"><img src="Ep01-ShowNotes_figures/ep1.png" width=300></a>
+
+
+
+
 
 ## 1. Using Jupyter Notebooks
 

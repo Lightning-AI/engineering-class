@@ -21,4 +21,3 @@ This repository contains extra materials and show notes for the [Lightning Bits:
 
 - [Show notes](ep03-environments/Ep03-ShowNotes.md)
 
-
