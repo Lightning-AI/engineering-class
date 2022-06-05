@@ -21,3 +21,6 @@ This repository contains extra materials and show notes for the [Lightning Bits:
 
 - [Show notes](ep03-ide/Ep03-ShowNotes.md)
 
+## Ep 04: Interactive Developer Environments (IDEs)
+
+- [Show notes](ep04-environments/Ep04-ShowNotes.md)
