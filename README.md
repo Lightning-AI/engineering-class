@@ -19,5 +19,5 @@ This repository contains extra materials and show notes for the [Lightning Bits:
 
 ## Ep 03: Virtual Environments
 
-- [Show notes](ep03-environments/Ep03-ShowNotes.md)
+- [Show notes](ep03-ide/Ep03-ShowNotes.md)
 
