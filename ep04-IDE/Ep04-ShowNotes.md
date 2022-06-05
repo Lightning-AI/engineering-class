@@ -34,11 +34,11 @@ Which program opens which file when running `open` depends on the file type and 
 1) Navigate to the file (or a file with similar file type) in Finder, and right-click on it.
 2) Hold down the option key and click on "Show Inspector"
 
-<img src="Ep04-ShowNotes_figures/inspector.png" width=800>
+<img src="Ep04-ShowNotes_figures/inspector.png" width=900>
 
 3. Now, go to "Open with", select the program from the dropdown menu, and click on "Change All..."
 
-<img src="Ep04-ShowNotes_figures/changeall.png" width=200>
+<img src="Ep04-ShowNotes_figures/changeall.png" width=300>
 
 
 
@@ -58,7 +58,7 @@ Once you opened an existing project, or created a new one, you can select your i
 
 
 
-<img src="Ep04-ShowNotes_figures/select.png" width=600>
+<img src="Ep04-ShowNotes_figures/select.png" width=800>
 
 
 
