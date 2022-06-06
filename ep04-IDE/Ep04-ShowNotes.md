@@ -2,7 +2,7 @@
 
 
 
-It's 2022. There are lots of different tools available that make your life as a programmer, engineer, and researcher more convenient. This episode is focused on [PyCharm](https://www.jetbrains.com/pycharm/), which is one of the most widely used IDEs for Python. You can think of it as a text editor that is spring-loaded with lots of extra features that make you more productive.
+It's 2022. There are lots of different tools available that make your life as a programmer, engineer, and researcher more convenient. This episode is focused on [PyCharm](https://www.jetbrains.com/pycharm/), which is one of the most widely used IDEs for Python. What is an IDE? IDE is short for integrated developer environment (sometimes also called "interactive" developer environment as Sebastian mentioned in the video). You can think of it as a text editor that is spring-loaded with lots of extra features that make you more productive. In that sense, it's both *interactive* and *integrated* ;).
 
 
 
