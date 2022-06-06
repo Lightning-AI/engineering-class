@@ -1,4 +1,4 @@
-# Interactive Developer Environments (IDEs)
+# Interactive/Integrated Developer Environments (IDEs)
 
 
 
