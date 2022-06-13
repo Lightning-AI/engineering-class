@@ -25,6 +25,11 @@ This repository contains extra materials and show notes for the [Lightning Bits:
 
 - [Show notes](ep04-IDE/Ep04-ShowNotes.md)
 
+## Ep 05: Debugging
+
+- [Show notes](ep05-debugging/Ep05-ShowNotes.md)
+
+
 
 
 

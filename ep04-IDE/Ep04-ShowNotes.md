@@ -1,4 +1,8 @@
-# Interactive/Integrated Developer Environments (IDEs)
+# Episode 4: Interactive/Integrated Developer Environments (IDEs)
+
+
+
+[[Watch Episode 4](https://www.youtube.com/watch?v=ISGNh4B1Z74)]
 
 
 
