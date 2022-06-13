@@ -166,3 +166,10 @@ you can get various information about your computer and environment as shown in 
 
 <img src="Ep03-ShowNotes_figures/watermark.png" width=700>
 
+---
+
+
+
+## Questions or Suggestions?
+
+If you have questions or suggestions, please don't hesitate to reach out to William ([@_willfalcon](https://twitter.com/_willfalcon)) and Sebastian ([@rasbt](https://twitter.com/rasbt)) on Twitter or join our [Slack Channel](https://pytorch-lightning.slack.com/archives/C03GS6MTCCQ). For more episodes, also check out the [Lightning Bits: Engineering for Researchers](http://pytorchlightning.ai/edu/engineering-class).

@@ -24,3 +24,15 @@ This repository contains extra materials and show notes for the [Lightning Bits:
 ## Ep 04: Interactive Developer Environments (IDEs)
 
 - [Show notes](ep04-IDE/Ep04-ShowNotes.md)
+
+
+
+
+
+---
+
+
+
+## Questions or Suggestions?
+
+If you have questions or suggestions, please don't hesitate to reach out to William ([@_willfalcon](https://twitter.com/_willfalcon)) and Sebastian ([@rasbt](https://twitter.com/rasbt)) on Twitter or join our [Slack Channel](https://pytorch-lightning.slack.com/archives/C03GS6MTCCQ). For more episodes, also check out the [Lightning Bits: Engineering for Researchers](http://pytorchlightning.ai/edu/engineering-class).

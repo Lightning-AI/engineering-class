@@ -89,3 +89,13 @@ Finally, after completing this step, we can import code from the package in Pyth
 <img src="Ep01-ShowNotes_figures/import.png"  width=800>
 
 Stay tuned for a future episode where we discuss this in more detail! Also, if you have any questions, please don't hesitate to reach out on [Slack](https://pytorch-lightning.slack.com/archives/C03GS6MTCCQ)!
+
+
+
+---
+
+
+
+## Questions or Suggestions?
+
+If you have questions or suggestions, please don't hesitate to reach out to William ([@_willfalcon](https://twitter.com/_willfalcon)) and Sebastian ([@rasbt](https://twitter.com/rasbt)) on Twitter or join our [Slack Channel](https://pytorch-lightning.slack.com/archives/C03GS6MTCCQ). For more episodes, also check out the [Lightning Bits: Engineering for Researchers](http://pytorchlightning.ai/edu/engineering-class).

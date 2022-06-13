@@ -38,3 +38,13 @@ Here is a summary of the terminal commands we covered in this episode:
 - iTerm2: [https://iterm2.com](https://iterm2.com/)
 - Wiliam's open source work: [https://github.com/williamFalcon](https://github.com/williamFalcon)
 - Sebastian's open source work: [https://github.com/rasbt](https://github.com/rasbt)
+
+
+
+---
+
+
+
+## Questions or Suggestions?
+
+If you have questions or suggestions, please don't hesitate to reach out to William ([@_willfalcon](https://twitter.com/_willfalcon)) and Sebastian ([@rasbt](https://twitter.com/rasbt)) on Twitter or join our [Slack Channel](https://pytorch-lightning.slack.com/archives/C03GS6MTCCQ). For more episodes, also check out the [Lightning Bits: Engineering for Researchers](http://pytorchlightning.ai/edu/engineering-class).
