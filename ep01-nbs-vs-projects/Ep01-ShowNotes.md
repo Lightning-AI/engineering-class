@@ -2,8 +2,7 @@
 
 
 
-<a href="https://www.youtube.com/embed/JGnoTN1OnWY"><img src="Ep01-ShowNotes_figures/ep1.png" width=300></a>
-
+[[Watch Episode 1](https://www.youtube.com/watch?v=JGnoTN1OnWY)]
 
 
 

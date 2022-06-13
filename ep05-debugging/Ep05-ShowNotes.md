@@ -1,4 +1,10 @@
-# Debugging Python Code
+# Episode 5: Debugging Python Code
+
+
+
+[[Watch Episode 5](https://www.youtube.com/watch?v=mD-1OZvuVDU)]
+
+
 
 
 
