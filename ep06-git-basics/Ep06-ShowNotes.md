@@ -10,6 +10,14 @@ Version control (also known as source control) allows us to track code changes a
 
 
 
+You can check whether Git is already installed by executing `git --version` on the command line.
+
+![](Ep06-ShowNotes_figures/git-version.png)
+
+If it turns out that Git is not already installed on your computer, you can download the latest version from the [Git website](https://git-scm.com/downloads).
+
+
+
 ## Git and GitHub
 
 You may have heard of GitHub before, and Git and GitHub are used almost synonymously these days. However, Git is actually the program we use for version control, and GitHub is a hosting platform. Most open-source projects use both. In this episode, we will focus on Git. The following episode will then focus on GitHub as a way to host our Git projects and how to code collaboratively.
@@ -20,14 +28,39 @@ You may have heard of GitHub before, and Git and GitHub are used almost synonymo
 
 
 
+**Renaming the Default Branch**
+
+
+
+If this is your first time using Git, we recommend executing the following command to change the global settings:
+
+```bash
+git config --global init.defaultBranch main
+```
+
+
+
+This will rename the default branch to `main`, which is the common standard for most coding and open-source projects.
+
+(Note that this is something you only need to do once.)
+
+
+
+
+
 ### 1) Creating and Checking Git Repositories
+
+
 
 - `git init`: this will create a new Git repository in the current folder.
 - `git status`: this will check the status of the current Git repository.
 
 ![](Ep06-ShowNotes_figures/git-status.png)
 
+
 Note that `git init` will simply add an "invisible" `.git` folder to your current directory where it stores all git-related information. Other than that, it will leave your local folder and file structure unchanged. So, if you change your mind and want convert the folder back from a Git repository to a regular folder, just delete the `.git` folder.
+
+If you see a `.DS_Store` (similar to in the screenshot above), this is a file created by macOS for Finder indexing and search properties. We can ignore it here.
 
 
 
