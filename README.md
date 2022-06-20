@@ -29,6 +29,11 @@ This repository contains extra materials and show notes for the [Lightning Bits:
 
 - [Show notes](ep05-debugging/Ep05-ShowNotes.md)
 
+## Ep 06: Version Control with Git
+
+- [Show notes](ep06-git-basics/Ep06-ShowNotes.md)
+
+
 
 
 
