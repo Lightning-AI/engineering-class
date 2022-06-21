@@ -1,6 +1,6 @@
 # Episode 6: Getting Started With Version Control Using Git
 
-[Watch Episode 6]
+[Watch Episode 6](https://youtu.be/HF6KAFDk9dY)
 
 
 
