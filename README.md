@@ -33,7 +33,7 @@ This repository contains extra materials and show notes for the [Lightning Bits:
 
 - [Show notes](ep06-git-basics/Ep06-ShowNotes.md)
 
-## Ep 06: Managing Code with Git Branching
+## Ep 07: Managing Code with Git Branching
 
 - [Show notes](ep07-git-branching/Ep07-ShowNotes.md)
 
