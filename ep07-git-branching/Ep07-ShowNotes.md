@@ -59,6 +59,8 @@ git checkout -b my-new-branch
 
 To combine the two steps `git branch my-new-branch` and `git checkout my-new-branch`.
 
+Or, if you like if you prefer your shortcuts to be even more concise, you can use `gcb my-new-branch` to achieve the same thing!
+
 
 
 ## Merging Branches
