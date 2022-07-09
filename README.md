@@ -13,21 +13,30 @@ This repository contains extra materials and show notes for the [Lightning Bits:
 - [Show notes](ep01-nbs-vs-projects/Ep01-ShowNotes.md)
 
 
+
 ## Ep 02: The Terminal
 
 - [Show notes](ep02-terminal/Ep02-ShowNotes.md)
+
+
 
 ## Ep 03: Virtual Environments
 
 - [Show notes](ep03-environments/Ep03-ShowNotes.md)
 
+
+
 ## Ep 04: Interactive Developer Environments (IDEs)
 
 - [Show notes](ep04-IDE/Ep04-ShowNotes.md)
 
-## Ep 05: Debugging
+
+
+## Ep 05: Debugging Code Efficiently
 
 - [Show notes](ep05-debugging/Ep05-ShowNotes.md)
+
+
 
 ## Ep 06: Version Control with Git
 
