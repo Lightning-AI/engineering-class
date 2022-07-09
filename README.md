@@ -2,7 +2,7 @@
 
 
 
-This repository contains extra materials and show notes for the [Lightning Bits: Engineering for Researchers](https://www.pytorchlightning.ai/edu/engineering-class) video series.
+This repository contains additional materials and show notes for the [Lightning Bits: Engineering for Researchers](https://www.pytorchlightning.ai/edu/engineering-class) video series.
 
 
 
