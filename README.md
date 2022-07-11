@@ -42,9 +42,16 @@ This repository contains additional materials and show notes for the [Lightning 
 
 - [Show notes](ep06-git-basics/Ep06-ShowNotes.md)
 
+
+
 ## Ep 07: Managing Code with Git Branching
 
 - [Show notes](ep07-git-branching/Ep07-ShowNotes.md)
+
+
+## Ep 08: Creating a Pull Request on GitHub
+
+- [Show notes](ep08-github-pr/Ep08-ShowNotes.md)
 
 
 
