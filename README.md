@@ -49,13 +49,16 @@ This repository contains additional materials and show notes for the [Lightning 
 - [Show notes](ep07-git-branching/Ep07-ShowNotes.md)
 
 
+
 ## Ep 08: Creating a Pull Request on GitHub
 
 - [Show notes](ep08-github-pr/Ep08-ShowNotes.md)
 
 
 
+## Ep 09: Collaborating with Pull Requests using GitHub
 
+- [Show notes](ep09-github-collab/Ep09-ShowNotes.md)
 
 
 
