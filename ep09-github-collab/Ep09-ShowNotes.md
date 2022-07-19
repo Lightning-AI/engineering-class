@@ -1,4 +1,4 @@
-# Episide 8: Creating a Pull Request on GitHub
+# Episide 9: Collaborating with Pull Requests using GitHub
 
 [[Watch Episode 9]()]
 
