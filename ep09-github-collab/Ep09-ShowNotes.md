@@ -1,6 +1,6 @@
 # Episide 9: Collaborating with Pull Requests using GitHub
 
-[[Watch Episode 9]()]
+[[Watch Episode 9](https://youtu.be/7wb2wUMrkkE)]
 
 
 
